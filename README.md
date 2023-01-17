@@ -1,4 +1,4 @@
-# performer
+# Performer
 
 Performance tests for multiple languages.
 
@@ -8,7 +8,7 @@ Currently supported:
  - Python
  - Ruby
 
-## Usage
+## Usage
 
 ```sh
 bash ./run.sh
@@ -29,5 +29,5 @@ PYTHON=python3.11 bash ./run.sh
 
 ## Notes
 
-Each language and interpreter has its perks and cons depending of the
-situation. Therefore, do not consider the provided results as legit proof.
+Each language and interpreter has its perks and cons depending of the situation.  
+Therefore, do not consider the provided results as legit proof.
